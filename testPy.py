@@ -1,4 +1,5 @@
 
 
-a = "hello!"
-print a
+a = "hello,"
+b = "world."
+print a,b
