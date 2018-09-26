@@ -2,4 +2,5 @@
 
 a = "hello,"
 b = "world."
-print a,b
+c = "  "
+print a,b,c
